@@ -1,2 +1,3 @@
 #!/bin/bash
-car /etc/{passwd,hosts}
+car /etc/ {passwd,hosts}
+
